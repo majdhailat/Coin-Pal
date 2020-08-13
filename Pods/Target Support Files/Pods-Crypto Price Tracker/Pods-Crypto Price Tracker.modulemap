@@ -1,0 +1,6 @@
+framework module Pods_Crypto_Price_Tracker {
+  umbrella header "Pods-Crypto Price Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
