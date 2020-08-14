@@ -19,7 +19,17 @@ We know that crypto holders check the value of their portfolios over a million t
 <a href="https://apps.apple.com/ca/app/coin-pal-1-crypto-tracker/id1517180079">Download on the App Store</a>
 
 
-![](http://url/to/img.png)
+![](https://user-images.githubusercontent.com/45887777/90202413-ad02a800-ddab-11ea-9f86-d5b96d358c80.png)
+
+![](https://user-images.githubusercontent.com/45887777/90202414-ad9b3e80-ddab-11ea-91b0-4cb2b60b4935.png)
+
+![](https://user-images.githubusercontent.com/45887777/90202415-ad9b3e80-ddab-11ea-882b-cdcf94680344.png)
+
+![](https://user-images.githubusercontent.com/45887777/90202416-ad9b3e80-ddab-11ea-954f-1f3c6bfa6df4.png)
+
+
+
+
 
 
 
