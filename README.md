@@ -1,4 +1,7 @@
 # Coin-Pal
+
+#### Cryptocurrency portfolio tracking app. Uses APIs to retrieve the price data for over 100 cryptocurrencies. Allows you to set the price in any native currency. You can input your balance of each coin in order to see the value of your portfolio. You can also add your BTC or ETH public keys to automatically retrieve your balance.
+
 Cryptocurrency portfolio tracking app
 
 Coin Pal is fast, simple, beautiful, and effective!
