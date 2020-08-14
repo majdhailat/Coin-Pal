@@ -16,5 +16,10 @@ View the price, 24H change, market cap, and more for all of your favorite coins.
 We know that crypto holders check the value of their portfolios over a million times a day, so we took the time to create a fast app so that you don't waste any time. Additionally, we put a lot of work into making Coin Pal look as good and as simple as possible so that you have a great experience using Coin Pal.
 
 
-APP STORE LINK: https://apps.apple.com/ca/app/coin-pal-1-crypto-tracker/id1517180079
+<a href="https://apps.apple.com/ca/app/coin-pal-1-crypto-tracker/id1517180079">Download on the App Store</a>
+
+
+![](http://url/to/img.png)
+
+
 
